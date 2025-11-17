@@ -54,14 +54,17 @@ ul{
       padding-left: 300px;
 }
 
+ul:hover{
+    color:orange
+}
 
 img{
-    width: 250px;
+    width: 400px;
     
 }
 
 img:hover {
-    width: 400px;
+    width: 500px;
 }
 
 a{
