@@ -1,0 +1,47 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("backgrnd.jpeg");
+    color: white;
+    text-align: center;
+    margin: 20px;
+    cursor: url("cursor.png") 16 16, auto;
+    
+}
+
+
+
+ul, table {
+    line-height: 1.5;
+    text-align: left; 
+    max-width: 600px;
+    margin: 0 auto 1em auto;
+}
+
+table{
+    background-color: rgb(102, 52, 138);
+    color:white;
+    width:60%;
+    margin: 0 auto 10px auto;
+}
+
+th, td{
+    border: 1px solid rgb(55, 28, 75);
+}
+
+table:hover{
+    width: 600px
+}
+
+ul{
+      padding-left: 300px;
+}
+
+
+img{
+    width: 250px;
+    
+}
+
+img:hover {
+    width: 400px;
+}
