@@ -8,6 +8,24 @@ body{
     
 }
 
+p:hover{
+    color:orange
+}
+
+
+h1:hover{
+    color:orange
+}
+
+h2:hover{
+    color:orange
+}
+
+h3:hover{
+    color:orange
+}
+
+
 
 
 ul, table {
@@ -44,4 +62,12 @@ img{
 
 img:hover {
     width: 400px;
+}
+
+a{
+    color: white;
+}
+
+table:hover, th:hover, td:hover, a:hover{
+    color: orange;
 }
